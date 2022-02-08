@@ -91,7 +91,7 @@ Warszataty Badawcze składają się z:
     <td>12</td>
     <td>19-05</td>
     <td>eXplainable Artificial Intelligence (XAI) - wstęp, metody globalne i lokalne</td>
-    <td>PD4 (5p)</td>
+    <td>PD4 (4p)</td>
   </tr>
   <tr>
     <td>13</td>
