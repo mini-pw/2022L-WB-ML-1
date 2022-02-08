@@ -67,13 +67,13 @@ Warszataty Badawcze składają się z:
     <td>8</td>
     <td>14-04</td>
     <td>Optymalizacja hiperparametrów</td>
-    <td>PD3 (4p) </td>
+    <td></td>
   </tr>
   <tr>
     <td>9</td>
     <td>21-04</td>
     <td>Diagnostyka modeli, wizualizacja modeli</td>
-    <td>PD4 (4p)</td>
+    <td>PD3 (4p)</td>
   </tr>
   <tr>
     <td>10</td>
@@ -91,7 +91,7 @@ Warszataty Badawcze składają się z:
     <td>12</td>
     <td>19-05</td>
     <td>eXplainable Artificial Intelligence (XAI) - wstęp, metody globalne i lokalne</td>
-    <td></td>
+    <td>PD4 (5p)</td>
   </tr>
   <tr>
     <td>13</td>
