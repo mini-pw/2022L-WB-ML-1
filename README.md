@@ -13,7 +13,7 @@ Warszataty Badawcze składają się z:
 <table>
 <thead>
   <tr>
-    <th>ZAJĘCIA</th>
+    <th></th>
     <th>DATA</th>
     <th>LABORATORIUM + PROJEKT</th>
     <th>PUNKTY</th>
