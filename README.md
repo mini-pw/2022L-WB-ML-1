@@ -42,7 +42,7 @@ Warszataty Badawcze składają się z:
     <td>4</td>
     <td>17-03</td>
     <td>Omównienie EDA, wstęp do modelowania - drzewo decyzyjne</td>
-    <td>KM1 (5p)</td>
+    <td>KM1 (3p)</td>
   </tr>
   <tr>
     <td>5</td>
@@ -54,7 +54,7 @@ Warszataty Badawcze składają się z:
     <td>6</td>
     <td>31-03</td>
     <td>Modele oparte na drzewach - część 2</td>
-    <td>KM2 (11p)
+    <td>KM2 (12p)
    </td>
   </tr>
    <tr>
@@ -103,7 +103,7 @@ Warszataty Badawcze składają się z:
     <td>14</td>
     <td>02-06</td>
     <td>Omównie wyników analizy XAI</td>
-    <td>KM4 (7p)</td>
+    <td>KM4 (8p)</td>
   </tr>
   <tr>
     <td>15</td>
