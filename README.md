@@ -36,7 +36,7 @@ Warszataty Badawcze składają się z:
     <td>3</td>
     <td>10-03</td>
     <td>Warsztat o danych przestrzennych - dr Jakub Nowosad</td>
-    <td>PD1 (4p)</td>
+    <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/issues/1" target="_blank" rel="noopener noreferrer">PD1 (4p)</a></td>
   </tr>
   <tr>
     <td>4</td>
