@@ -13,7 +13,7 @@ Warszataty Badawcze składają się z:
 <table>
 <thead>
   <tr>
-    <th></th>
+   <th><a href="https://github.com/MI2-Education/2022L-WB-ML-1/blob/main/materials/other.md" target="_blank" rel="noopener noreferrer">#</a></th>
     <th>DATA</th>
     <th>LABORATORIUM + PROJEKT</th>
     <th>PUNKTY</th>
@@ -21,13 +21,13 @@ Warszataty Badawcze składają się z:
 </thead>
 <tbody>
   <tr>
-    <td>1</td>
+   <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/blob/main/materials/week1.md" target="_blank" rel="noopener noreferrer"> 1</a></td>
     <td>24-02</td>
     <td>Tematyka projektu</td>
     <td></td>
   </tr>
   <tr>
-    <td>2</td>
+    <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/blob/main/materials/week2.md" target="_blank" rel="noopener noreferrer"> 2</a></td>
     <td>03-03</td>
     <td>Szerokie spojrzenie na ML, przegląd literatury, eksploracyjna analiza danych (EDA)</td>
     <td></td>
