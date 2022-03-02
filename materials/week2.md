@@ -6,6 +6,9 @@
 
 ## Machine Learning 
 
+[Introducing the 2020 Machine Learning Roadmap](https://www.mrdbourke.com/2020-machine-learning-roadmap/)
+[Map](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
+
 ##### Metrics
 [Model performance measures](https://ema.drwhy.ai/modelPerformance.html)
 [Regression Metrics for Machine Learning](https://machinelearningmastery.com/regression-metrics-for-machine-learning/)
@@ -52,3 +55,8 @@
 [Ran M. Bittmann, Roy Gelbard, Visualization of multi-algorithm clustering for better economic decisions — The case of car pricing, Decision Support Systems, Volume 47, Issue 1, 2009, Pages 42-50, ISSN 0167-9236, https://doi.org/10.1016/j.dss.2008.12.012.](https://www.sciencedirect.com/science/article/pii/S0167923609000062)
 
 [M. Jain, H. Rajput, N. Garg and P. Chawla, "Prediction of House Pricing using Machine Learning with Python," 2020 International Conference on Electronics and Sustainable Communication Systems (ICESC), 2020, pp. 570-574, doi: 10.1109/ICESC48915.2020.9155839.](https://ieeexplore.ieee.org/abstract/document/9155839)
+
+
+## Overleaf
+
+[Style and Template for Preprints (arXiv, bio-arXiv)](https://www.overleaf.com/latex/templates/style-and-template-for-preprints-arxiv-bio-arxiv/fxsnsrzpnvwc)
