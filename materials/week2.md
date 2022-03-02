@@ -1,17 +1,21 @@
 ## Exploratory Data Analysis
 
 [R for Data Science - EDA](https://r4ds.had.co.nz/exploratory-data-analysis.html)
+
 [What is Exploratory Data Analysis?](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)
 
 
 ## Machine Learning 
 
 [Introducing the 2020 Machine Learning Roadmap](https://www.mrdbourke.com/2020-machine-learning-roadmap/)
+
 [Map](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
 
 ##### Metrics
 [Model performance measures](https://ema.drwhy.ai/modelPerformance.html)
+
 [Regression Metrics for Machine Learning](https://machinelearningmastery.com/regression-metrics-for-machine-learning/)
+
 [3 Best metrics to evaluate Regression Model?](https://towardsdatascience.com/what-are-the-best-metrics-to-evaluate-your-regression-model-418ca481755b)
 
 ## Papers
