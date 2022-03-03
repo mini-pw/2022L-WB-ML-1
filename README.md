@@ -27,9 +27,9 @@ Warszataty Badawcze składają się z:
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/blob/main/materials/week2.md" target="_blank" rel="noopener noreferrer"> 2</a></td>
+    <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/blob/main/materials/week2/week2.md" target="_blank" rel="noopener noreferrer"> 2</a></td>
     <td>03-03</td>
-    <td>Szerokie spojrzenie na ML, przegląd literatury, eksploracyjna analiza danych (EDA)</td>
+    <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/blob/main/materials/week2/L2-ML-paper.pdf" target="_blank" rel="noopener noreferrer">Szerokie spojrzenie na ML, przegląd literatury, eksploracyjna analiza danych (EDA)</a></td>
     <td></td>
   </tr>
   <tr>
