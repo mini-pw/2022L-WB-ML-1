@@ -42,7 +42,7 @@ Warszataty Badawcze składają się z:
     <td>4</td>
     <td>17-03</td>
     <td>Omównienie EDA, wstęp do modelowania - drzewo decyzyjne</td>
-    <td>KM1 (3p)</td>
+    <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/issues/2" target="_blank" rel="noopener noreferrer">KM1 (3p)</a></td>
   </tr>
   <tr>
     <td>5</td>
