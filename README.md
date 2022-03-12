@@ -23,7 +23,7 @@ Warszataty Badawcze składają się z:
   <tr>
    <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/blob/main/materials/week1/week1.md" target="_blank" rel="noopener noreferrer"> 1</a></td>
     <td>24-02</td>
-    <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/blob/main/materials/week1/L1-intro.pdf" target="_blank" rel="noopener noreferrer">"Tematyka projektu</a></td>
+    <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/blob/main/materials/week1/L1-intro.pdf" target="_blank" rel="noopener noreferrer">Tematyka projektu</a></td>
     <td></td>
   </tr>
   <tr>
