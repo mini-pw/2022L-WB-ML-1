@@ -21,9 +21,9 @@ Warszataty Badawcze składają się z:
 </thead>
 <tbody>
   <tr>
-   <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/blob/main/materials/week1.md" target="_blank" rel="noopener noreferrer"> 1</a></td>
+   <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/blob/main/materials/week1/week1.md" target="_blank" rel="noopener noreferrer"> 1</a></td>
     <td>24-02</td>
-    <td>Tematyka projektu</td>
+    <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/blob/main/materials/week1/L1-intro.pdf" target="_blank" rel="noopener noreferrer">"Tematyka projektu</a></td>
     <td></td>
   </tr>
   <tr>
@@ -33,7 +33,7 @@ Warszataty Badawcze składają się z:
     <td></td>
   </tr>
   <tr>
-    <td>3</td>
+    <td><i>3</i></td>
     <td>10-03</td>
     <td>Warsztat o danych przestrzennych - dr Jakub Nowosad</td>
     <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/issues/1" target="_blank" rel="noopener noreferrer">PD1 (4p)</a></td>
