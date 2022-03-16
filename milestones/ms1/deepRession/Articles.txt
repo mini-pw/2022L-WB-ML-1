@@ -1,0 +1,29 @@
+Hubert:
+https://depot.ceon.pl/bitstream/handle/123456789/8601/The_use_of_regression_to_the_analysis_of_real_estate_market_of_housing.pdf?sequence=1&isAllowed=y
+The use of regression trees to the analysis of real estate market of housing, Elżbieta Jasińska, Edward Predewa, AGH University of Science and Technology, Poland
+
+The authors underline that regression task for real estate prices is complex, due to its mix of quantitive and qualitative features. Because of this fact, they perceive tree-based models as perfect solution, because they can delineate the numerical features and help them to cooperate with categorical ones. Their reasearch goal was to assess the applicability of regression trees for determining property prices.
+The article also contains the description of how C&RT (classification and correct Regression Tree) model works. It is represented as right-sized tree which divides the features from most import ones to the least important. The nodes are the analogy to the correlation coefficients, because they are scaled from 0 to 1, however they can't depict the negative effect on the value of the variable. 
+Finally, the authors present how the C&RT model works on the example of Cracows Old Town real estates and speak about limitations of this model (for example, limited number of street names). They also highlight that their model can help to estimate unit price with standard devation on the level of view percent.
+
+
+Kacper:
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3565512
+House Price Forecasting Using Machine LearningMohammad Anas Adil,Rohankumar, Ashutosh Singh TomarGalgotias University, Greater Noida
+
+This paper is about using decision tree to predict housing prices. What makes their model slightly different from others is adding to their dataset invisible factors: air quality and crime rate. They notice a need to simplify the procces for people not into ML, but who would like to know what is an actual price for their ready-to-sell or under construction house. The authors explained what are intended and independent features in their model.
+Then tools which they used are mentioned which are Python program language and decision tree regressor from  "Scikit-learn" library. The authors write about link beetween physical appearance and invisible symptoms, relating to other publication about it. Then there is description of each process phrase of making system with the model. The process of development model is pictured with simple diagram .
+Finally they explain why they chose the decision tree regressor and how it works. An algorithms are choosen based on the size and type of data in the data used. For their database this one compared the best. They have a plan to include maps to make their systems more user-friendly.
+
+
+
+Julka:
+https://www.bportugal.pt/sites/default/files/anexos/papers/re201713_e.pdf
+House prices in Portugal - what happened since the crisis?
+Rita Fradique Lourenço, Paulo M. M. Rodrigues
+
+This paper presents a first analysis of the factors driving house price movements in Portugal, with main emphasis on the crisis and post-crisis periods. 
+Firstly, authors introduce us analysed changes in estate market during past few years - since crisis prices have been decreasing, and increasing since 2013. At the moment of reaserch and creation of the paper, house prices were still below their long-term average. 
+Later on we get to real analysis - a standard multiple linear regression framework to examine the relationship between house price growth and a set of covariates. From the estimation results for the whole period the results are showing that the main drivers are real per capita GDP and the unemployment rate. The impact can seem obvious - an increase in real per capita GDP has a positive impact on real house prices, while an increase of the unemployment rate leads to a decrease. 
+In order to analyse change of fundamentals' impact on house prices may have changed over this period, the authors considered the approach of Bai and Perron. The results came up much different, in the first period(2007-2011), all variables except mortgage rates play a role in explaining house price growth, while in the latter period (2011-2017) only per capita GDP and mortgage rates are relevant. 
+At the end we can see some calculations showing that exists high probability of positive house price growth in next years.
