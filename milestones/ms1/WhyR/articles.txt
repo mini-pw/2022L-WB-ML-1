@@ -1,0 +1,8 @@
+https://www.sciencedirect.com/science/article/pii/S1877050920316318
+First paper is directly connected with machine learning and predictive models, which are implemented to predict real estate prices. From this paper we can get some basic knowledge of 
+machine learning in these case and get some useful tips in choosing best predictive model. Paper is written in accessible language and is really pleasant to read.
+https://www.sciencedirect.com/science/article/pii/016604629602128X
+Extensive article about house pricing. It is decent article written in formal and scientific language. This paper is full of math formulas and conveys a great deal of knowledge.
+https://www.sciencedirect.com/science/article/pii/S0264275118312241
+Third paper is also about house pricing. Unlike the second article, it emphasizes the location and the role it plays in selling the house. It is written in accessible language and does not 
+require specialized knowledge of economics and maths. 
