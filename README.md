@@ -39,9 +39,9 @@ Warszataty Badawcze składają się z:
     <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/issues/1" target="_blank" rel="noopener noreferrer">PD1 (4p)</a></td>
   </tr>
   <tr>
-    <td>4</td>
+    <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/blob/main/materials/week4/week4.md" target="_blank" rel="noopener noreferrer"> 4</a></td>
     <td>17-03</td>
-    <td>Omównienie EDA, wstęp do modelowania - drzewo decyzyjne</td>
+    <td>Omównienie EDA, <a href="https://github.com/MI2-Education/2022L-WB-ML-1/blob/main/materials/week4/rpart.R" target="_blank" rel="noopener noreferrer"> wstęp do modelowania - drzewo decyzyjne</a></td>
     <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/issues/2" target="_blank" rel="noopener noreferrer">KM1 (3p)</a></td>
   </tr>
   <tr>
