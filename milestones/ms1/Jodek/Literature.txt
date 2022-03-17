@@ -1,0 +1,44 @@
+
+1. After the Boom: Transitory and Legacy Effects of Foreclosures
+Autorzy: Geoffrey K. Turnbull, Arno J. van der Vlist
+Tytuł dziennika: The Journal od Real Estate Finance and Economics
+Rok: 2022
+Link: https://doi.org/10.1007/s11146-021-09882-w
+Krótki opis: Autorzy artykułu skupiają się na analizie bardzo konkretnego zjawiska; odbierania domów, których właścicielom
+nie udało się spłacić (foreclosure). Próbują przebadać, jak kluczowy dla wyceny nieruchomości jest to czynnik. Opieraja się 
+na danych z Orange Country, we Florydzie, w Stanach Zjednoczonych. Zauważają, że istotnie lokale które mają historię braku spłat
+są często przez długi okres przecenianie, a obniżki cen można też czasem dostrzec wśród sąsiednich posiadłości.
+
+2. The Research Development of Hedonic Price Model-Based Real Estate Appraisal in the Era of Big Data
+Autorzy: Cankun Wei, Meichen Fu, Li Wang, Hanbing Yang, Feng Tang, Yuqing Xiong
+Rok: 2022
+Link: https://doi.org/10.3390/land11030334
+Krótki opis: Autorzy w artykule pochylają się nad najnowszymi technologiami ery Big Data i osiągnięciami w uczeniu maszynowym,
+aby zoptymalizować wycenę nieruchomości z pomocą hedonistycznego modelu cenowego (oryg. Hedonistic Price Model). 
+Jednocześnie poruszają problem zróżnicowanej jakości danych pozyskiwanych z wielu różych źródeł. Wskazują na mieszanie wielu 
+metod w poszukiwaniu najlepszego modelu wycieniającego posiadłości.
+
+3. Forecasting US Commercial Property Price Indexes Using Dynamic Factor Models
+Autorzy: Alex vad de Minne, Marc Francke, David Geltner
+Tytuł dziennika: Journal of Real Estate Research
+Rok: 2019
+Link: https://doi.org/10.1080/08965803.2020.1840802
+Krótki opis: Artykuł skupia się na wycenie nieruchomości w modelu dynamicznych czynników (oryg. Dynamic Factor Model).
+Głównym celem autorów jest sprowadzenie wielu szeregów czasowych do kilku czynników przewidujących ceny. Pracują
+oni na kwartalnych danych dotyczących komercyjnych posiadłości w Stanach Zjednoczonych z lat 2001 - 2017. 
+Wyniki analizy wskazują, że nawet w porównaniu z innymi metodami predykcyjnymi, model DFM daje dobre rezultaty. 
+
+4. Property Valuation using Machine Learning Algorithms: A Study in a Metropolitan-Area of Chile.
+Autorzy: Victor Hugo Masias, Mauricio A. Valle, Fernando Crespo, Ricardo Crespo, Augosto A Vargas Schüler, Sigifredo Laengle
+Rok: 2016
+Link: https://www.researchgate.net/publication/317137020_Property_Valuation_using_Machine_Learning_Algorithms_A_Study_in_a_Metropolitan-Area_of_Chile
+Krótki opis: W tym artykule autorzy porównują zdolność predykcyjną wyceny nieruchomości kilku metod, w tym: sieci neuronowych, lasów losowych,
+maszyny wektorów nośnych i meotdy najmniejsych kwadratów. Bazują na danych dotyczących zabudowań miejskich w Santiago, Chile. Wnioskują,
+że metoda losowych losów poradziło sobie najlepiej w przewidywaniu ceny posiadłości, ale podkreślają, że techniki uczenia maszynowego 
+generalnie stanowią dobre narzędzie do zdobywania informacji o rynku nieruchomości.
+
+5. Real estate price estimation in French cities using geocoding and machine learning
+Autorzy: Dieudonné Tchuente, Serge Nyawa
+Rok: 2021
+Link: https://doi.org/10.1007/s10479-021-03932-5
+Krótki opis: W tym artykule autorzy przewidują ceny nieruchomości w Francji wykorzustując w tym celu geolokalizacje oraz techniki uczenia maszynowego. Porównują siedom motod uczelnia maszynowego. Z artykułu wynika, że najlepsze predykcje dają sieci neuronowego oraz las losowy.
