@@ -23,11 +23,11 @@ Hitters_short <- Hitters_short %>%
 ## rozkłady zmiennych
 
 ggplot(Hitters_short, aes(x = Salary)) + 
-  geom_density() #+
-  #scale_x_log10()
+  geom_density() +
+  scale_x_log10()
 
 library(rpart)
-tree <- rpart(Salary~., data = Hitters_short)
+tree <- rpart(log(Salary)~., data = Hitters_short)
 
 library(rpart.plot)
 rpart.plot(tree)
