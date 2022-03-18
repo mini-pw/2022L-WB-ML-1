@@ -47,7 +47,7 @@ Warszataty Badawcze składają się z:
   <tr>
     <td>5 & 6</td>
     <td>24-03</td>
-    <td>Modele oparte na drzewach - część 1</td>
+    <td>Modele oparte na drzewach</td>
      <td>KM2 (12p)</td>
   </tr>
     <tr>
