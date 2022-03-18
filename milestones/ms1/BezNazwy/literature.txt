@@ -1,0 +1,10 @@
+## Przegląd literatury
+
+1. Meta analiza prac poświęconych prognozowaniu cen mieszkań:
+https://www.semanticscholar.org/paper/MACHINE-LEARNING-FOR-PROPERTY-PRICE-PREDICTION-AND-Ja%E2%80%99afar-Mohamad/3c11da06aee6f81eff6695719abe63d14034472c#paper-header
+
+2. Wchodzi w dyskusję z pracą która jest naszym tematem
+https://www.semanticscholar.org/paper/Comprehensive-Analysis-of-Housing-Price-Prediction-Sawant-Jangid/2c9b2681340257ea34844a734bdd36c311dbc237
+
+3. A propos danych geolokalizacyjnych
+https://scholarsarchive.byu.edu/iemssconference/2008/all/53/
