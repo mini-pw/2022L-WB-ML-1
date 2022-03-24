@@ -48,7 +48,7 @@ Warszataty Badawcze składają się z:
     <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/blob/main/materials/week56/week56.md" target="_blank" rel="noopener noreferrer">5-6</a></td>
     <td>24-03</td>
     <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/tree/main/milestones/ms2a" target="_blank" rel="noopener noreferrer">Modele oparte na drzewach</a></td>
-     <td>KM2 (12p)</td>
+     <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/issues/3" target="_blank" rel="noopener noreferrer"> KM2 (12p)</a></td>
   </tr>
     <tr>
     <td>7</td>
