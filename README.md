@@ -53,13 +53,13 @@ Warszataty Badawcze składają się z:
     <tr>
     <td>7</td>
     <td>07-04</td>
-    <td> Omówienie modeli</td>
+    <td>Optymalizacja hiperparametrów</td>
     <td> PD2 (4p) </td>
   </tr>
   <tr>
     <td>8</td>
     <td>14-04</td>
-    <td>Optymalizacja hiperparametrów</td>
+    <td> Omówienie modeli</td>
     <td></td>
   </tr>
   <tr>
