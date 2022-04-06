@@ -54,7 +54,7 @@ Warszataty Badawcze składają się z:
     <td>7</td>
     <td>07-04</td>
     <td>Optymalizacja hiperparametrów</td>
-    <td> PD2 (4p) </td>
+    <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/issues/4"target="_blank" rel="noopener noreferrer"> PD2 (4p) </a></td>
   </tr>
   <tr>
     <td>8</td>
