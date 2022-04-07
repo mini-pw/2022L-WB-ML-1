@@ -51,7 +51,7 @@ Warszataty Badawcze składają się z:
      <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/issues/3" target="_blank" rel="noopener noreferrer"> KM2 (12p)</a></td>
   </tr>
     <tr>
-    <td>7</td>
+    <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/blob/main/materials/week7/week7.md" target="_blank" rel="noopener noreferrer">7</a></td>
     <td>07-04</td>
     <td>Optymalizacja hiperparametrów</td>
     <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/issues/4"target="_blank" rel="noopener noreferrer"> PD2 (4p) </a></td>
