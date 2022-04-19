@@ -131,7 +131,7 @@ lightGBM_predict <- function(
   data, 
   target=NULL, 
   autofactor=FALSE, 
-  postprocess=FALSE
+  postprocess=TRUE
   ){
   
   # Drop target if provided
