@@ -2,7 +2,7 @@
 #' Function which is presented below transform data (inplace) automatically to make it available to build model. Then function is building XGB model with default hyperparameters (if neither is given) or specified hyperparameters if any are given, fitting data to model and returning model. Then we can use this model to predict the data we are interested in.
 #'
 #' @param data
-#'There we need to give data based on which we will   predict. It is well known as 'X' in machine learning literature.
+#'There we need to give data based on which we will predict. It is well known as 'X' in machine learning literature.
 #'
 #' @param target
 #'This parameter is this value which we want to predict based on 'data' parameter. It is well known as 'y' in machine learning literature.
@@ -71,17 +71,23 @@
 #' @export
 #'
 
-# Function preprocessing data that it fits into xgboost model
+library(xgboost)
+library(data.table)
+library(caTools)
+set.seed(101)
+
+### Function preprocessing data that it fits into xgboost model, returns splitted 
+### dataset into train and test subsets
 XGBoost_data_preprocessing <- function(data, target){
   # extracting labels
   labels <- data[, c(target)]
-
+  
   # setting to data table format (recommended)
   data_DT <- data.table(data)
-
+  
   # using one hot encoding on features
-  data_enc <- model.matrix(~.+0,data = data_DT[,-c(target),with=F])
-
+  data_enc <- model.matrix.lm(~.+0,data = data_DT[,-c(target),with=F], na.action = 'na.pass')
+  data_enc
   # converting character / factor label to numeric
   if (is.character(labels)){
     labels <- as.numeric(factor(labels))-1
@@ -89,56 +95,43 @@ XGBoost_data_preprocessing <- function(data, target){
   if (is.factor(labels)){
     labels <- as.numeric(labels)-1
   }
-
-  # preparing matrix-type data for model
-  data_matrix <- xgb.DMatrix(data = data_enc,label = labels)
-  return(data_matrix)
+  
+  # operations to split datasets into train and test
+  tmp <- as.data.frame(labels)
+  colnames(tmp) <- c(target)
+  tmp
+  data_to_split <- as.data.frame(cbind(as.data.frame(data_enc), tmp))
+  data_to_split
+  sample <- sample.split(data_to_split[, c(target)], SplitRatio = 0.7)
+  d_train <- subset(data_to_split, sample == TRUE)
+  d_test  <- subset(data_to_split, sample == FALSE)
+  setDT(d_train)
+  setDT(d_test)
+  
+  # returning list of two data.table datasets: train and test
+  data_output <- list("train" = d_train, "test" = d_test)
+  return(data_output)
 }
 
-# Main function, building a model based on
-XGBoost_function <- function(train, #train set
+### Main function, building a model based on dataset (dataframe), 
+### target variable name (string) and hyperparameters
+
+XGBoost_function <- function(data, #dataset
                              target, #target variable (label)
-                             booster = "gbtree", # parameters and their default settings
-                             eta=0.3,
-                             gamma=0,
-                             max_depth=6,
-                             min_child_weight=1,
-                             subsample=1,
-                             colsample_bytree=1,
-                             lambda = 1,
-                             alpha = 0){
-  # data preprocessing
-  dtrain_matrix <- XGBoost_data_preprocessing(train, target)
-
+                             nrounds = 50,
+                             ...){
+  
+  # training set preprocessing
+  d_train <- XGBoost_data_preprocessing(data, target)$train
+  dtrain_matrix <- xgb.DMatrix(data = as.matrix(d_train[,-c(target),with=F]),
+                               label = d_train[[target]], missing=NA)
+  
   # setting parameters (if ommited, default values are used)
-  params <- list(booster = booster, eta = eta,
-                 gamma = gamma, max_depth = max_depth, min_child_weight = min_child_weight,
-                 subsample = subsample, colsample_bytree = colsample_bytree,
-                 lambda = lambda, alpha = alpha)
-
+  params <- list(...)
+  
   # returning a model
-  xgb_model <- xgb.train(params = params, data = dtrain_matrix, nrounds = 79)
-
+  xgb_model <- xgb.train(params = params, data = dtrain_matrix, nrounds=nrounds)
+  
   return(xgb_model)
 }
 
-df <- read.csv("Iris.csv")
-
-# an example of splitting 1st dataset into train and test sets
-set.seed(101)
-sample = sample.split(df$Species, SplitRatio = 0.7)
-train = subset(df, sample == TRUE)
-test  = subset(df, sample == FALSE)
-
-#function call
-XGBoost_function(train, "Species", alpha = 1)
-
-
-df2 <- data.frame(read.csv('breast-cancer.csv'))
-
-# an example of splitting 2nd dataset into train and test sets
-set.seed(101)
-sample = sample.split(df2[, c("X.recurrence.events.")], SplitRatio = 0.7)
-train2 = subset(df2, sample == TRUE)
-test2  = subset(df2, sample == FALSE)
-XGBoost_function(train2, "X.recurrence.events.", eta = 0.1)
