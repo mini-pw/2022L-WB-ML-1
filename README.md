@@ -59,49 +59,51 @@ Warszataty Badawcze składają się z:
   <tr>
     <td>8</td>
     <td>14-04</td>
-    <td> Omówienie modeli</td>
+    <td>Diagnostyka modeli, wizualizacja modeli</td>
     <td></td>
   </tr>
   <tr>
     <td>9</td>
     <td>21-04</td>
-    <td>Diagnostyka modeli, wizualizacja modeli</td>
-    <td>PD3 (4p)</td>
+    <td>Przygotowywanie modeli </td>
+    <td></td>
   </tr>
   <tr>
     <td>10</td>
     <td>28-04</td>
-    <td>Wnioski płynące z przeprowadzonej diagnostyki</td>
-    <td>KM3 (5p)</td>
+    <td> Omówienie modeli i diagnostyki</td>
+    <td>PD3a (2p) <br>
+    KM3a (3p)</td>
   </tr>
   <tr>
     <td>11</td>
     <td>05-05</td>
-    <td>Budowanie portfolio</td>
-    <td></td>
+    <td>eXplainable Artificial Intelligence (XAI) - wstęp, metody globalne i lokalne <br>
+    Interaktywna eksploracja modeli (idea modelStudio, arena)</td>
+    <td>KM3b (6p)</td>
   </tr>
   <tr>
     <td>12</td>
     <td>19-05</td>
-    <td>eXplainable Artificial Intelligence (XAI) - wstęp, metody globalne i lokalne</td>
-    <td>PD4 (4p)</td>
+    <td>Eksploracja przygotowanych modeli</td>
+    <td>PD3b (2p)</td>
   </tr>
   <tr>
     <td>13</td>
     <td>26-05</td>
-    <td>Interaktywna eksploracja modeli (idea modelStudio, arena)</td>
-    <td>PD5 (4p)</td>
+    <td>Konsultacje przed prezentacją końcową</td>
+    <td>KM4 (8p)</td>
   </tr>
   <tr>
     <td>14</td>
     <td>02-06</td>
-    <td>Omównie wyników analizy XAI</td>
-    <td>KM4 (8p)</td>
+    <td>Recenzowanie artykułu</td>
+    <td> PD4 (4p)</td>
   </tr>
   <tr>
     <td>15</td>
     <td>09-06</td>
-    <td>Podsumowanie projektu/konsultacje</td>
+    <td>Podsumowanie projektu</td>
     <td></td>
   </tr>
  
@@ -109,13 +111,19 @@ Warszataty Badawcze składają się z:
 </table>
 
 ### Schemat oceniania (suma 100p):
--   praca podczas projektu -   48p
--   prezentacja końcowa - 16p
--   raport końcowy - 32p
--   stosowanie dobrych praktyk wykorzystania GitHub - 4p
+-   Raport końcowy [0-32p]:
+    -   wstęp, motywacja [0-8p]
+    -   literatura [0-2p]
+    -   główne wyniki pracy [0-10p]
+    -   wnioski [0-8p]
+    -   jakość wykresów/wizualizacji/diagramów [0-4p]
+-   Prezentacja [0-16p]
+-   Praca na zajęcia [0-48p]:
+    -   4 prace domowe - [0-16p]
+    -   4 kamienie milowe - [0-32p]
+-   Stosowanie dobrych praktyk wykorzystania GitHub [0-4p]
 
-
-
+ 
 | Ocena |  3 | 3.5 | 4 | 4.5 | 5 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Punkty   | (50, 60] | (60, 70] | (70, 80] | (80, 90] | (90, ∞) |
