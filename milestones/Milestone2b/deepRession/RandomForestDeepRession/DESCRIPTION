@@ -1,0 +1,20 @@
+Package: RandomForestDeepRession
+Type: Package
+Title: Provides methods for automatic data preprocessing and training RandomForest model.
+Version: 0.1.0
+Authors@R:
+    c(person("Hubert", "Ruczyński", role=c("aut","cre"),
+              email = "hruczynski21@interia.pl"),
+      person("Kacper", "Skonieczka", role = c("aut"),
+              email = "kaacperskonieczka@gmail.com"),
+      person("Julia", "Przybytniowska", role = c("aut"),
+              email = "j.przybytniowska@gmail.com"))
+Maintainer: Hubert Ruczyński <hruczynski21@interia.pl>
+Description: Provides methods for automatic data preprocessing and training RandomForest model.
+    Auto-preprocessing methods contain management of null values, scaling continuous values, one hot encoding and binarizing categorical data.
+    RandomForest methods enable the user to train and predict values with given parameters.
+License: GPL-3
+Encoding: UTF-8
+Language: en-US
+LazyData: true
+RoxygenNote: 7.1.2
