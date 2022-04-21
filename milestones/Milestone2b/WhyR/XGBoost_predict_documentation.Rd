@@ -2,6 +2,7 @@
 \alias{XGBoost_predict}
 \title{XGBoost_predict}
 \usage{
+library(dplyr)
 library(xgboost)
 library(data.table)
 library(caTools)

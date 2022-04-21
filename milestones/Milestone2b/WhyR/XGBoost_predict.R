@@ -12,7 +12,7 @@
 #' @return prediction using our model and given data.
 #' @export
 #'
-
+library(dplyr)
 library(xgboost)
 library(data.table)
 library(caTools)

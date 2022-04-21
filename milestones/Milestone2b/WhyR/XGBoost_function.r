@@ -70,7 +70,7 @@
 #' @return prediction using our model and given data.
 #' @export
 #'
-
+library(dplyr)
 library(xgboost)
 library(data.table)
 library(caTools)
@@ -84,6 +84,9 @@ XGBoost_data_preprocessing <- function(data, target){
   
   # setting to data table format (recommended)
   data_DT <- data.table(data)
+  
+  # removing features with one unique value
+  data_DT <- data_DT %>% select(where(~ n_distinct(.) > 1))
   
   # using one hot encoding on features
   data_enc <- model.matrix.lm(~.+0,data = data_DT[,-c(target),with=F], na.action = 'na.pass')

@@ -5,6 +5,7 @@
 Function which is presented below transform data (inplace) automatically to make it available to build model. Then function is building XGB model with default hyperparameters (if neither is given) or specified hyperparameters if any are given, fitting data to model and returning model. Then we can use this model to predict the data we are interested in.
 }
 \usage{
+library(dplyr)
 library(xgboost)
 library(data.table)
 library(caTools)
