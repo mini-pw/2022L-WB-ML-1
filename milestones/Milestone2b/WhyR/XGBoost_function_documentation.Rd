@@ -9,7 +9,7 @@ library(dplyr)
 library(xgboost)
 library(data.table)
 library(caTools)
-set.seed(101)
+
 # dataset from https://www.kaggle.com/datasets/camnugent/california-housing-prices
 source('XGBoost_function.R')
 df <- read.csv('housing.csv')

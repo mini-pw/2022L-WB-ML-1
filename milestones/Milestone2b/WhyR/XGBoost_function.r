@@ -74,7 +74,6 @@ library(dplyr)
 library(xgboost)
 library(data.table)
 library(caTools)
-set.seed(101)
 
 ### Function preprocessing data that it fits into xgboost model, returns splitted 
 ### dataset into train and test subsets
@@ -100,6 +99,7 @@ XGBoost_data_preprocessing <- function(data, target){
   }
   
   # operations to split datasets into train and test
+  set.seed(101)
   tmp <- as.data.frame(labels)
   colnames(tmp) <- c(target)
   tmp
