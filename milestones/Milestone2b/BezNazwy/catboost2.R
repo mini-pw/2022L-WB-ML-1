@@ -30,11 +30,11 @@ catboost_prepare_data <- function(data, target, continuous_names = NULL, drops =
   
   ## Encoding continuous variables by grouping
   
-  data[continuous_names] <- data %>%select(continuous_names) %>% sapply(function(x){
-    q <- quantile(x, probs = c(0.33,0.66,1))
-    x <- cut(x, breaks = c(-Inf,q[1],q[2],q[3]), 
-             labels = c(0,1,2))
-  })
+#   data[continuous_names] <- data %>%select(continuous_names) %>% sapply(function(x){
+#     q <- quantile(x, probs = c(0.33,0.66,1))
+#     x <- cut(x, breaks = c(-Inf,q[1],q[2],q[3]), 
+#              labels = c(0,1,2))
+#   })
   
   ## Encoding character data with integer labels
   data[, sapply(data, class) == 'character']<-  data %>% select(where(is.character)) %>%  
