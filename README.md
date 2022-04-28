@@ -73,14 +73,14 @@ Warszataty Badawcze składają się z:
     <td>28-04</td>
     <td> Omówienie modeli i diagnostyki</td>
     <td>PD3a (2p) <br>
-    KM3a (3p)</td>
+   <a href="https://github.com/MI2-Education/2022L-WB-ML-1/issues/7" target="_blank" rel="noopener noreferrer"> KM3a (3p) </a></td>
   </tr>
   <tr>
     <td>11</td>
     <td>05-05</td>
     <td>eXplainable Artificial Intelligence (XAI) - wstęp, metody globalne i lokalne <br>
     Interaktywna eksploracja modeli (idea modelStudio, arena)</td>
-    <td>KM3b (6p)</td>
+    <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/issues/7" target="_blank" rel="noopener noreferrer"> KM3b (6p)</a></td>
   </tr>
   <tr>
     <td>12</td>
@@ -92,13 +92,13 @@ Warszataty Badawcze składają się z:
     <td>13</td>
     <td>26-05</td>
     <td>Konsultacje przed prezentacją końcową</td>
-    <td>KM4 (8p)</td>
+    <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/issues/8" target="_blank" rel="noopener noreferrer"> KM4 (8p)</a></td>
   </tr>
   <tr>
     <td>14</td>
     <td>02-06</td>
     <td>Recenzowanie artykułu</td>
-    <td> PD4 (4p)</td>
+    <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/issues/9" target="_blank" rel="noopener noreferrer">  PD4 (4p)</a></td>
   </tr>
   <tr>
     <td>15</td>
