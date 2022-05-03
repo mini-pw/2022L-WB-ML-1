@@ -72,7 +72,7 @@ Warszataty Badawcze składają się z:
     <td>10</td>
     <td>28-04</td>
     <td> Omówienie modeli i diagnostyki</td>
-    <td>PD3a (2p) <br>
+    <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/issues/6" target="_blank" rel="noopener noreferrer">PD3a (2p)</a> <br>
    <a href="https://github.com/MI2-Education/2022L-WB-ML-1/issues/7" target="_blank" rel="noopener noreferrer"> KM3a (3p) </a></td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@ Warszataty Badawcze składają się z:
     <td>12</td>
     <td>19-05</td>
     <td>Eksploracja przygotowanych modeli</td>
-    <td>PD3b (2p)</td>
+    <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/issues/6" target="_blank" rel="noopener noreferrer">PD3b (2p)</a></td>
   </tr>
   <tr>
     <td>13</td>
