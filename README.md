@@ -76,10 +76,10 @@ Warszataty Badawcze składają się z:
    <a href="https://github.com/MI2-Education/2022L-WB-ML-1/issues/7" target="_blank" rel="noopener noreferrer"> KM3a (3p) </a></td>
   </tr>
   <tr>
-    <td>11</td>
+    <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/blob/main/materials/week11/week11.md" target="_blank" rel="noopener noreferrer"> 11</a></td>
     <td>05-05</td>
-    <td>eXplainable Artificial Intelligence (XAI) - wstęp, metody globalne i lokalne <br>
-    Interaktywna eksploracja modeli (idea modelStudio, arena)</td>
+    <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/blob/main/materials/week11/XAI.pdf" target="_blank" rel="noopener noreferrer"> eXplainable Artificial Intelligence (XAI) - wstęp, metody globalne i lokalne <br>
+     Interaktywna eksploracja modeli (idea modelStudio, arena)</a></td>
     <td><a href="https://github.com/MI2-Education/2022L-WB-ML-1/issues/7" target="_blank" rel="noopener noreferrer"> KM3b (6p)</a></td>
   </tr>
   <tr>
