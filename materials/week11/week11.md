@@ -3,7 +3,7 @@
 #### Prezentacja z zajęć [(link)](https://github.com/MI2-Education/2022L-WB-ML-1/blob/main/materials/week11/XAI.pdf)
 ### Książki
 
-Książka opisująca dokładnie metody XAI autorstwa Przemysła Biecka [Explanatory Model Analysis. Explore, Explain and Examine Predictive Models](https://pbiecek.github.io/ema/)
+Książka opisująca dokładnie metody XAI autorstwa Przemysława Biecka [Explanatory Model Analysis. Explore, Explain and Examine Predictive Models](https://pbiecek.github.io/ema/)
 
 Książka opisująca XAI, Christoph Molnar  [Interpretable Machine Learning. A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
 
