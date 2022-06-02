@@ -1,0 +1,37 @@
+Podsumowanie. Chyba lepiej patrzeć na komentarze naniesione na artukuł, które nie tylko odnosza się do pytań.
+
+Czy abstrakt ma charakter informacyjny, obejmuje całą treść?
+Niestety należy go poprawić. Nie realizuje on głównych czterech pryncypiów pisania abstraktów, tj.:
+1. Jasne i klarowne przedstawienie problemu badawczego i jego celów
+2. Metody (i ich nazwy) które wykorzystaliśmy w artykule (zwłaszcza modele)
+3. Główne wyniki artykułu
+4. Jednozdaniowe podsumowanie.
+Ponadto abstrakt powinien być trochę dłuższy 150-300 słów.
+
+Czy słowa kluczowe opisują przedstawiany problem?
+Tak, ale według podlinkowanego tekstu jest ich za dużo. A nie jest to długi artykuł.
+
+Czy wstęp określa cel/pytanie badawcze, na które autorzy starają się odpowiedzieć?
+Nie ma wstępu. Należy go dodać.
+
+Czy zapropnowane rozwiązanie jest jasno określone i autorzy postępują zgodnie z nim?
+Generalnie tak, z małymi niedociągłościami takimi jak np. co postanowiono zrobić ze zmienną BuyPrice po odkryciu, że zawiera ona zarówno cane za m2 jak i za całość.
+Jest to zmienna kluczowa do dalszego rozumiena co się dzieje w artukule.
+Można by też dodać o hiperparametrach po których były tunningowane poszczególne modele skoro były inne a najlepszy okazały się tylko xgboost-y.
+
+Czy wnioski przekazują główny motyw pracy?
+Wniosków z całości pracy artykuł jeszcze nie zawiera, ale te do poszczególnych części są słuszne i w naturalny sposób nawiązują do motywu pracy.
+
+Czy zamieszczona literatura jest powiązana z tematem artykułu?
+Literatury jeszcze nie ma. 
+
+Czy artykuł zawiera estetyczne oraz poprawne ilustacje/wykresy?
+Generalnie tak. Drobne poprawki, które polepszyłyby efekt wizualny to: 
+- zmniejszcznie ścisku tutułów i podtytułów, zwiększenie czcionki,
+- nieucinanie wartości,
+- zmniejszenie marginesów, zgrupowanie wykresów,
+- dodanie referecnji i podpisów- szczególnie do tabel.
+
+
+Artykuł prowadzi nas krok po kroku przez rozwiązanie postawionego zadania i bardzo przyjemnie się go czyta. Poszczególne etapy są szczegółowo opisane, metody wytłumaczone a wnioski zasadne. 
+Zostały tylko drobne poprawki do doprowadzenia go do perfekcji. 
