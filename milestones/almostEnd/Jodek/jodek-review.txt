@@ -1,0 +1,50 @@
+Recenzja artykułu Jodek
+
+
+
+1. Czy abstrakt ma charakter informacyjny, obejmuje całą treść?
+
+Abstrakt jest kompletny.
+
+
+
+2. Czy słowa kluczowe opisują przedstawiany problem?
+
+Możnaby dopisać "Tree-based models". Więcej nie mamy zastrzeżeń.
+
+
+
+3. Czy wstęp określa cel/pytanie badawcze, na które autorzy starają się odpowiedzieć?
+
+Mógłby zostać lepiej opisany zbiór danych, np. jakie dane zawiera, jakie kolumny/informacje można z niej wyciągnąć
+
+
+
+4. Czy zapropnowane rozwiązanie jest jasno określone i autorzy postępują zgodnie z nim?
+
+tak, bo wiemy jakie modele zostały zbudowane i dobrze przedstawione zostało także ich wyjaśnienie
+
+
+
+5. Czy wnioski przekazują główny motyw pracy?
+
+Podsumowanie przedstawia zarówno opis modeli jak i nawiązanie do celu projektu, czyli predyckji cen mieszkań. Te dwie rzeczy możnaby jednak wizualnie rodzielić we wnioskach, np. rozbić na dwa akapity lub podpunkty
+
+
+
+6. Czy zamieszczona literatura jest powiązana z tematem artykułu?
+
+Jak najbardziej, można w niej znaleźć zarówno artykuły dotyczące uczenia maszynowego, jak i te odnoszące się do cen mieszkań.
+
+
+
+7. Czy artykuł zawiera estetyczne oraz poprawne ilustacje/wykresy?
+
+Możnaby rozważyć dodanie mapki wizualizującej rozłożenie nieruchomości. Poza tym wizualizacje są bardzo estetyczne i czytelne.
+
+
+
+
+Ogólnie to poza gdzieniegdzie występującymi błędami gramatycznymi, artykuł jest spójnie napisany i czyta się go bardzo przyjemnie. Poza tym cały proces projektowania i budowania rozwiązania postawionego problemu był bardzo szczegółowo i precyzyjnie opisany, a sam artykuł sprawia wrażenie profesjonalnego i nie daje wielu powodów by się do niego przyczepić.
+
+
