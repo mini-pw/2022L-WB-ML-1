@@ -1,0 +1,59 @@
+Recenzja artykułu DeepRession
+
+
+1. Czy abstrakt ma charakter informacyjny, obejmuje całą treść?
+
+Abstrakt jest absolutnie kompletny. Zawiera wszystkie niezbędne informacje
+wstępne dotyczące artykułu. Przy okazji jest zwięzły, co jest ogromnym plusem.
+
+
+
+2. Czy słowa kluczowe opisują przedstawiany problem?
+
+Jeśli chodzi o słowa kluczowe to owszem, opisują one przedstawiany problem,
+aczkolwiek osobiście zmieniłbym kolejność dając na początek Regression, a jako
+drugie XAI. Są to krótsze hasła i prawdopodobnie częściej wyszukiwane
+przez co artykuł mogłby być częściej wyszukiwany.
+
+
+
+3. Czy wstęp określa cel/pytanie badawcze, na które autorzy starają się odpowiedzieć?
+
+Wstęp jest idealny - pierwsze zdanie opisuje cel badawczy, a drugie - sposób
+rozwiązania problemu. Nic dodać, nic ująć.
+
+
+
+4. Czy zapropnowane rozwiązanie jest jasno określone i autorzy postępują zgodnie z nim?
+
+Czytając artykuł nie ma kłopotów ze zrozumieniem rozwiązania. Wszystko tworzy
+logiczną całość i nie da się pogubić. Na duży plus tabelka 'Hyperparameters grid' - 
+bardzo dobrze ujednolica modele. 
+
+
+
+5. Czy wnioski przekazują główny motyw pracy?
+
+Wnioski, podobnie jak abstrakt i wstęp, są jak najbardziej trafne i równie zwięzłe,
+stąd ponownie duży plus. Są sensowne i odpowiadają motywowi pracy.
+
+
+
+6. Czy zamieszczona literatura jest powiązana z tematem artykułu?
+
+Tak, jest.
+
+
+7. Czy artykuł zawiera estetyczne oraz poprawne ilustacje/wykresy?
+
+Ilustracje oraz wykresy są bardzo estetycznie skomponowane i ujednolicone.
+Tabele są bardzo czytelne. Nie jestem jednak fanem wykresów typu split group,
+jednak to tylko moje personalne odczucie wynikające z wewnętrznych przekonań.
+
+
+
+
+Artykuł świetny, treściwy a jednocześnie niesamowicie zwięzły. Nie ma
+przynudzania - fantastycznie sprawdzi się on dla informatyków szukających 
+szybkiej odpowiedzi na podobne problemy machine learning'owe.
+
