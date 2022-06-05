@@ -1,0 +1,27 @@
+Czy abstrakt ma charakter informacyjny, obejmuje całą treść?
+	Tak. Warto dodać nazwy metod XAI jakich użyliście.
+  
+Czy słowa kluczowe opisują przedstawiany problem?
+	Tak ale warto dodać więcej związnych z metodami drzewiastymi.
+  
+Czy wstęp określa cel/pytanie badawcze, na które autorzy starają się odpowiedzieć?
+	Tak ale może dajcie linka do tych danych z których korzystacie tu albo w opisie danych?
+  
+Czy zapropnowane rozwiązanie jest jasno określone i autorzy postępują zgodnie z nim?
+	Tak. Nie jestem pewien czy ta druga obserwacja w Breakdown profiles która ma największy
+	błąd predykcji to jest ta sama która ma największy procentowy błąd predykcji na wykresie
+	Figure 5?
+
+	Jeśli wasz model na zbiorze treningowym myli się max o 1% to brzmi jak przeuczenie,
+	warto napisać o tym i dlaczego zdecydowaliście sie mimo wszystko na ten model.
+  
+Czy wnioski przekazują główny motyw pracy?
+	Warto określić w rozdziale 5 czy według was to co zrobiliście się udało,
+	tzn czy uważacie, że ten model jest dobry i np możnaby go było używać.
+  
+Czy zamieszczona literatura jest powiązana z tematem artykułu?
+	Tak i jest nawet więcej niż wymagane minimum, gratulacje!
+  
+Czy artykuł zawiera estetyczne oraz poprawne ilustacje/wykresy?
+	Strona 10 wygląda biednie, rozważcie przerzucenie punktu 4.2 na nią
+	 albo wykresu ze strony 11.
