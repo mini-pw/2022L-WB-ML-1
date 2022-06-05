@@ -1,0 +1,20 @@
+1.Czy abstrakt ma charakter informacyjny, obejmuje całą treść?
+Abstrakt zawiera sformułowanie problemu, ale brakuje w nim informacji jak został rozwiązany - metody i wyniki, a także zdania podsumowującego wykonaną pracę. Wstęp o uczeniu maszynowym wydaje się być zbędny, abstrakt ma rolę streszczenia.
+
+2.Czy słowa kluczowe opisują przedstawiany problem?
+Słowa kluczowe zostały uwzględnione - zarówno zorientowane na uczenie maszynowe jak i charakterystykę problemu. Warto rozważyc jednak skrócenie listy, 'business' wydaję się też odstawać od tematu
+
+3.Czy wstęp określa cel/pytanie badawcze, na które autorzy starają się odpowiedzieć?
+Wstęp jeszcze nie dodany.
+
+4.Czy zapropnowane rozwiązanie jest jasno określone i autorzy postępują zgodnie z nim?
+Zgadza się, zwięźle określono działania, pomysł z wyznaczeniem odległości od komisariatu i straży pożarnej przykuwa uwagę. Zabrakło przedstawienia rozwiązania do problemu kolumny 'Buy Price'. Na plus zwrócenie uwagi na problem z XAI przy zastosowaniu PCA.
+
+5.Czy wnioski przekazują główny motyw pracy?
+Podsumowanie jeszcze nie dodane, ale proces myślowy przedstawiony w artykule jest trafny.
+
+6.Czy zamieszczona literatura jest powiązana z tematem artykułu?
+Literatura jeszcze nie dodana.
+
+7.Czy artykuł zawiera estetyczne oraz poprawne ilustacje/wykresy?
+Tak, jedynie co to macierze korelacji się nieco rozpikselizowują.
