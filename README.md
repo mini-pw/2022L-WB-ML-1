@@ -112,11 +112,11 @@ Warszataty Badawcze składają się z:
 
 ### Schemat oceniania (suma 100p):
 -   Raport końcowy [0-32p]:
-    -   wstęp, motywacja [0-8p]
-    -   literatura [0-2p]
-    -   główne wyniki pracy [0-10p]
-    -   wnioski [0-8p]
-    -   jakość wykresów/wizualizacji/diagramów [0-4p]
+    - abstrakt, wstęp, motywacja [0-5p]
+    - literatura i jakość bibliografii [0-4p]
+    - główne wyniki pracy [0-14p]
+    - wnioski [0-5p]
+    - jakość wykresów/wizualizacji/diagramów, umiejętne korzystanie z LaTeXa[0-4p]
 -   Prezentacja [0-16p]
 -   Praca na zajęcia [0-48p]:
     -   4 prace domowe - [0-16p]
